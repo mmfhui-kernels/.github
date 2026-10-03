@@ -4,7 +4,7 @@
   <img src="https://github.com/mmfhui-kernels.png?size=200" width="120" alt="Michael's Compute Kernel Lab logo">
 </p>
 
-<p align="center">Compute kernels, built and optimized step by step from scratch in writeups, for workloads I find interesting.</p>
+<p align="center">Full documentation for compute kernels that are built and optimized step by step from scratch.</p>
 
 ## How each workload repository is structured
 
